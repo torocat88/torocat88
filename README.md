@@ -13,11 +13,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![torocat88's github stats](https://github-readme-stats.vercel.app/api?username=torocat88&count_private=true&include_all_commits=true&show_icons=true)](https://github.com/torocat88/github-readme-stats)
-
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=torocat88&count_private=true&show_icons=true" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=torocat88&count_private=true&include_all_commits=true&show_icons=true" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=torocat88&count_private=true&show_icons=true" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=torocat88&count_private=true&include_all_commits=true&show_icons=true" />
 </a>
