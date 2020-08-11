@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **torocat88/torocat88** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,6 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+[![torocat88's github stats](https://github-readme-stats.vercel.app/api?username=torocat88)](https://github.com/torocat88/github-readme-stats)
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=torocat88&count_private=true&show_icons=true" />
